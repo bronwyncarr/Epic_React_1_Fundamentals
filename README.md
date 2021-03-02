@@ -1,4 +1,4 @@
-# React Fundamentals from Epic React Course by Kent C. Dodds
+# React Fundamentals from Epic React Course
 
 ✅ All exercises for React Fundamentals chapter completed.
 
